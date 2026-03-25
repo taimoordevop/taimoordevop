@@ -8,68 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=25&duration=3200&pause=1100&color=a5b4fc&center=true&vCenter=true&width=820&lines=MERN+Stack+Architect;Flutter+Expert;React+Native+Specialist;Zero-Knowledge+Security+Engineer;Offline-First+Systems;Mission-Critical+Software" alt="Typing SVG" />
 </p>
 
----
 
-# 🧠 About Me
-
-I build **secure, scalable, and intelligent software ecosystems** engineered for performance and long-term maintainability.
-
-🔹 **Full-Stack Engineer** (MERN Stack)
-
-🔹 **Cross-Platform Architect** (Flutter & React Native)
-
-🔹 **Security Engineer** (Zero-Knowledge & RLS)
-
-🔹 **Systems Specialist** (Offline-First & Local-Sync)
-
-My focus: **Security • Scalability • Performance • Clean Architecture**
-
----
-
-## 🛰️ Systemic Vision
-I engineer the bridge between **Stationary Legacy Workflows** and **Agile Cloud-Synced Mobility**. My mission is **Systemic Untethering**—moving professional data from fixed desks to high-performance, resilient mobile ecosystems.
-
-### 🛠️ Core Verticals
-* 🚀 **Full-Stack Mastery**: Scalable MERN architectures with 0ms cloud-sync.
-* 📱 **Mobile Mobility**: High-fidelity Flutter & React Native applications.
-* 🛡️ **Hardened Security**: Zero-knowledge encryption and RLS-protected data vaults.
-* ⚡ **Local-First Logic**: Resilient systems built on Isar and Supabase Realtime.
-
-
----
-
-## 📂 Project Showreel: Engineering for Impact
-
-### 🌐 MERN Stack | Integrated Command Centers
-
-  * **[BestPriceKSA](https://www.google.com/search?q=https://bestpriceksa.com/)**: An enterprise retail ERP that eliminated "Blind Profits" by centralizing inventory and finance into a single horizontal "Command Strip".
-  * **[AIILP](https://github.com/ATdeveloper911/mern-stack/)**: An Academic-Industry Linkage Platform featuring **Bulk Student Onboarding (\<60s)** and real-time internship status tracking.
-  * **[BloodLink](https://github.com/ATdeveloper911/mern-stack/)**: A life-critical medical logistics system using **Socket.IO** to reduce matching latency during emergencies.
-
-### 🎯 Flutter Core | Institutional Logic
-
-  * **[VeraBolt](https://github.com/ATdeveloper911/flutter-/)**: A resilient SaaS featuring **Pro License Activation** via hardware-fingerprinting and integrated **Poker AI logic** built on a local-first, offline-synced architecture.
-  * **[Smart Complaint System](https://github.com/ATdeveloper911/flutter-/)**: A governance tool that decentralizes accountability through **automated 24h escalation** and RLS-protected timelines.
-  * **[BS CGPA Calculator](https://github.com/ATdeveloper911/flutter-/)**: An academic strategy engine that helps students forecast long-term goals and export verifiable records via **PDF/CSV**.
-
-### 📱 React Native | Cloud-Synced Mobility
-
-  * **[Gold Bazar](https://github.com/ATdeveloper911/react-native/)**: A physics-based laboratory suite implementing **Archimedes' Principle** and traditional **Tola/Masha/Ratti** weight conversion.
-  * **[MindSpace](https://github.com/ATdeveloper911/react-native/)**: A mental wellness ecosystem that leverages **Gemini AI for Sentiment Analysis** to provide actionable wellness data.
-  * **[Smart Budget Analyzer](https://github.com/ATdeveloper911/react-native/)**: Transforming raw transaction data into actionable financial strategy through **automated categorization** and predictive spending alerts.
-
------
-
-# 🧩 Engineering Principles
-
-```
-+ Secure by Design
-+ Scalable Architecture
-+ Local-First Resilience
-+ Clean Modular Code
-+ Performance Optimized
-+ Zero-Knowledge Privacy
-```
 
 -----
 
