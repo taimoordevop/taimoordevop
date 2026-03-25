@@ -94,7 +94,7 @@ I engineer the bridge between **Stationary Legacy Workflows** and **Agile Cloud-
 ## 🌊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taimoordevop&theme=dracula&bg_color=1e1b4b&color=a5b4fc&line=14b8a6&point=67e8f9&hide_border=true&area=true&area_color=14b8a6" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taimoordevop&theme=midnight-purple&bg_color=1e1b4b&color=a5b4fc&line=14b8a6&point=67e8f9&hide_border=true&area=true&area_color=14b8a6&radius=16" alt="Contribution Graph" />
 </p>
 
 
