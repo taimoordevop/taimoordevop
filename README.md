@@ -1,11 +1,11 @@
 ----
 
-# <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,100:0083b0&height=260&section=header&text=M.Taimoor%20|%20Software%20Architect&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38" /> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1e1b4b,40:312e81,70:0f766e,100:14b8a6&height=290&section=header&text=M.%20Taimoor%20|%20Software%20Architect&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=50" alt="Glassmorphic Header" />
+</p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&weight=700&size=24&duration=3000&pause=1000&color=a594fd&center=true&vCenter=true&width=800&lines=MERN+Stack+Architect;Flutter+Expert;React+Native+Specialist;Zero-Knowledge+Security+Engineer;Offline-First+Systems;Mission-Critical+Software" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=25&duration=3200&pause=1100&color=a5b4fc&center=true&vCenter=true&width=820&lines=MERN+Stack+Architect;Flutter+Expert;React+Native+Specialist;Zero-Knowledge+Security+Engineer;Offline-First+Systems;Mission-Critical+Software" alt="Typing SVG" />
 </p>
 
 ---
@@ -76,21 +76,25 @@ I engineer the bridge between **Stationary Legacy Workflows** and **Agile Cloud-
 ---
 
 ## 📊 Performance Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taimoordevop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taimoordevop&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=taimoordevop&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0,1e1b4b,2a265f,312e81&title_color=a5b4fc&text_color=e0e7ff&icon_color=14b8a6&border_radius=22" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taimoordevop&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0,1e1b4b,2a265f,312e81&title_color=a5b4fc&text_color=e0e7ff&icon_color=14b8a6&langs_count=10&border_radius=22" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taimoordevop&theme=tokyonight&hide_border=true&background=0f2027" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taimoordevop&theme=midnight-purple&hide_border=true&background=1e1b4b&stroke=14b8a6&ring=a5b4fc&fire=14b8a6&currStreakNum=ffffff&sideNums=e0e7ff&currStreakLabel=14b8a6&sideLabels=a5b4fc&dates=e0e7ff&border_radius=22" alt="Streak Stats" />
 </p>
+
+
 
 ---
 
-# 🌊 Contribution Graph
+## 🌊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taimoordevop&theme=react-dark&bg_color=0a192f&hide_border=true&color=00F5FF&line=00F5FF" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taimoordevop&theme=dracula&bg_color=1e1b4b&color=a5b4fc&line=14b8a6&point=67e8f9&hide_border=true&area=true&area_color=14b8a6" alt="Contribution Graph" />
 </p>
 
 
