@@ -17,7 +17,7 @@
 ## 📊 Performance Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taimoordevop&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0,1e1b4b,2a265f,312e81&title_color=a5b4fc&text_color=e0e7ff&icon_color=14b8a6&border_radius=22" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=taimoordevop&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0,1e1b4b,2a265f,312e81&title_color=a5b4fc&text_color=e0e7ff&icon_color=14b8a6&border_radius=22" alt="GitHub Stats" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taimoordevop&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0,1e1b4b,2a265f,312e81&title_color=a5b4fc&text_color=e0e7ff&icon_color=14b8a6&langs_count=10&border_radius=22" alt="Top Languages" />
 </p>
